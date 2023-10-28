@@ -1,0 +1,2 @@
+Second commit of changes newFile.txt
+New commit
